@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+set -e
+
+pyenv exec pyvenv env
+env/bin/pip install -r requirements.txt
