@@ -1,6 +1,13 @@
+dj_database_url
 falcon
+flake8
+flake8-commas
+flake8-print
+flake8-quotes
+gunicorn
+mypy
+mypy-lang
 newrelic
 psycopg2cffi
-gunicorn
-dj_database_url
+typed-ast
 wsgi-basic-auth
